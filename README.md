@@ -3,4 +3,4 @@ My personal GitHub is dedicated to my work and bug bounty activities. I develop 
 
 Previously, I have worked at Fifth Third Bank and Comcast/Xfinity as a Security Engineer, where my responsibilities included managing the company's bug bounty program and identifying vulnerabilities in the company's applications.
 
-While I have scaled back my bug bounty activities to achieve a better work-life balance, my passion for cybersecurity remains as strong as ever. In my spare time, I love playing football (soccer), hiking, and spending time with friends.
+While I have scaled back my bug bounty activities to achieve a better work-life balance because I now work as a full-time Security Engineer from 9 to 5, I want to spend my time after 5 PM on other activities rather than just cybersecurity. My passion for cybersecurity remains as strong as ever. In my spare time, I love playing football (soccer), hiking, and spending time with friends.
