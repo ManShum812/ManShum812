@@ -1,3 +1,3 @@
 ### Hi there 👋, my name is Man
 
-I love breaking things.
+Just a guy passionate about application security.
